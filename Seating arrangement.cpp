@@ -9,8 +9,6 @@ int main()
     //b is no. of input
     
     cin>> b;
-    
-    
     for(i=0;i<b;i++){
    
     cin >> a;
