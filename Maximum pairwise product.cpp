@@ -26,8 +26,6 @@ public:
 };
 
 
-
-
 int main() {
   vector<int> vec;
   int n;
