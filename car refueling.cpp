@@ -13,9 +13,6 @@ int countRefill(int N, int K, int M, int compulsory[])
     int i = 0; 
 
     int distCovered = 0; 
-
-  
-
     // While we complete the whole journey. 
 
     while (distCovered < N) { 
