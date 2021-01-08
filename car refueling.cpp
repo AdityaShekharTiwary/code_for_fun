@@ -2,7 +2,6 @@
 
 using namespace std; 
 
-  
 // Function that returns the total number of 
 // refills made to reach the destination of N km 
 
